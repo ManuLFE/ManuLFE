@@ -1,0 +1,5 @@
+- 🤖 Hi, I’m @ManuLFE !
+- 👀 I’m interested in basically anything involving a computer.
+- 🌱 Currently learning Javascript and its wide array of frameworks.
+- 💞️ I’m looking to collaborate on absolutely any interesting project, from basic web development to being part of a localization team for open source projects, you name it !
+- 🎟 Using this free ticket allows you reach out to me using every possible means of communication. (🐦 Please avoid homing pigeons as they tend to be quite slow by today's standards)
